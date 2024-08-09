@@ -1,6 +1,6 @@
 # Little Lemon Database & Analysis
 
-In this project, we designed and modeled a database for Little Lemon Restaurant. We also created stored procedures for the database and implemented data analysis using Tableau to gain business insights. This project is the Database Engineer Capstone.
+In this project, we designed and modeled a database for Little Lemon Restaurant. We also created stored procedures for the database and implemented data analysis using Tableau to gain business insights. This project is the Meta Database Engineer Capstone.
 
 ---
 
