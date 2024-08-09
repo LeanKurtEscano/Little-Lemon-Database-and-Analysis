@@ -19,3 +19,10 @@ In this project, we designed and modeled a database for Little Lemon Restaurant.
 5. **Customer Details:** To store information about customer names and contact details.
 
 6. **Staff Information:** Including role and salary.
+
+---
+
+After we defined and examined the relationships, the database model was implemented in MySQL Workbench.
+
+![Database Model](C:\Users\LEAN\Desktop\db_capstone\LittleLemonDbModel\db_model.png)
+
