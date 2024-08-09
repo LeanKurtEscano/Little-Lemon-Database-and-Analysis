@@ -1,0 +1,5 @@
+CREATE  PROCEDURE AddBooking(IN c_id INT, IN t_no INT, IN new_date DATE )
+BEGIN
+INSERT INTO bookings(Booking_Date,CustomerID,TableNo) VALUES (new_date,c_id,t_no);
+SELECT CONCAT('New ', 'booking ', 'added') AS Confirmation FROM bookings;
+END

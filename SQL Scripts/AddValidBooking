@@ -1,0 +1,17 @@
+CREATE PROCEDURE AddValidBooking(IN newdate DATE, tableno INT,IN c_id INT)
+BEGIN
+DECLARE check_booking INT;
+START TRANSACTION;
+
+SELECT COUNT(*) INTO check_booking
+FROM bookings WHERE Booking_Date = newdate AND TableNo = tableno;
+
+IF check_booking = 0 THEN
+INSERT INTO booking(Booking_Date,CustomerID,TableNo) VALUES
+(newdate,c_id,tableno);
+ELSE
+SELECT CONCAT('Table ',tableno, ' is already booked') AS BookingStatus;
+END IF;
+COMMIT;
+
+END

@@ -1,0 +1,6 @@
+CREATE  PROCEDURE UpdateBooking(IN b_id INT, IN new_date DATE)
+BEGIN
+UPDATE bookings
+SET Booking_Date = new_date WHERE BookingID = b_id;
+SELECT CONCAT('Booking ', b_id, ' updated') AS Confirmation FROM bookings;
+END

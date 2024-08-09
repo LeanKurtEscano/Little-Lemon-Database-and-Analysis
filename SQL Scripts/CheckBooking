@@ -1,0 +1,2 @@
+CREATE PROCEDURE CheckBooking(IN in_date DATE, no INT)
+SELECT CONCAT('Table ',TableNo, ' is already booked') AS BookingStatus FROM bookings WHERE Booking_Date = in_date AND TableNo = no

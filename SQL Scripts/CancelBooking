@@ -1,0 +1,5 @@
+CREATE  PROCEDURE CancelBooking(IN b_id INT)
+BEGIN
+DELETE FROM bookings WHERE BookingID = b_id;
+SELECT CONCAT('Booking ', b_id, ' cancelled') AS Confirmation FROM bookings;
+END

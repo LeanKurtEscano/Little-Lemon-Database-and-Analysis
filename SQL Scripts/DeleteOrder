@@ -1,0 +1,5 @@
+CREATE  PROCEDURE DeleteOrder(IN orderID INT)
+BEGIN
+    DELETE FROM Orders WHERE OrderID = orderID;
+    SELECT CONCAT('OrderID: ', orderID, ' has been deleted') AS Confirmation;
+END
