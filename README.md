@@ -30,8 +30,28 @@ After we defined and examined the relationships, the database model was implemen
 
 We used Tableau to perform data analytics using relevant charts and dashboards. Here are some visualizations used.
 
+Fig 1.
 1.Bar Chart that shows customer's sales and filter data based on sales with atleast 70$.The chart is in descended order to start with the highest.
 
-![Bar Chart](Tableau Graphs/Customer Sales.png)
+![Barchart](Tableau Graphs\fig1.png)
 
+Fig 2.
+2.Created a line chart showing the sales trend from 2019 to 2022.
+
+![linechart](Tableau Graphs\fig2.jpg)
+
+
+Fig 3.
+3.Created a Bubble chart of sales for all customers.
+
+![bubble](Tableau Graphs\fig3.jpg)
+
+Fig 4.
+4.Created a Bar Chart that displays the sales of the different cuisines on the years 2020-2022.It also shows the profits located at the top of the bars.
+
+![barnew](Tableau Graphs\fig4.png)
+
+Fig 5.
+5.Created an interactive dashboard that combines the Bar chart and the Bubble chart.
+![dashboad](Tableau Graphs\fig5.png)
 
