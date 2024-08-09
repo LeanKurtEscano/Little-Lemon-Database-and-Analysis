@@ -26,4 +26,12 @@ After we defined and examined the relationships, the database model was implemen
 
 ![Database Model](LittleLemonDbModel/db\_model.png)
 
+## Data Analytics with Tableau
+
+We used Tableau to perform data analytics using relevant charts and dashboards. Here are some visualizations used.
+
+1.Bar Chart that shows customer's sales and filter data based on sales with atleast 70$.The chart is in descended order to start with the highest.
+
+![Bar Chart](Tableau Graphs/Customer Sales.png)
+
 
