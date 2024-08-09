@@ -28,24 +28,25 @@ We used Tableau to perform data analytics using relevant charts and dashboards. 
 ### Fig 1.
 Bar Chart that shows customer sales and filters data based on sales of at least $70. The chart is in descending order to start with the highest.
 
-![BarChart](Tableau Graphs/fig1.png)
+![BarChart](Tableau%20Graphs/fig1.png)
 
 ### Fig 2.
 Line chart showing the sales trend from 2019 to 2022.
 
-![LineChart](Tableau Graphs/fig2.jpg)
+![LineChart](Tableau%20Graphs/fig2.jpg)
 
 ### Fig 3.
 Bubble chart of sales for all customers.
 
-![BubbleChart](Tableau Graphs/fig3.jpg)
+![BubbleChart](Tableau%20Graphs/fig3.jpg)
 
 ### Fig 4.
 Bar Chart displaying the sales of different cuisines from 2020 to 2022. It also shows the profits located at the top of the bars.
 
-![BarChart](Tableau Graphs/fig4.png)
+![BarChart](Tableau%20Graphs/fig4.png)
 
 ### Fig 5.
 Interactive dashboard that combines the Bar Chart and the Bubble Chart.
 
-![Dashboard](Tableau Graphs/fig5.png)
+![Dashboard](Tableau%20Graphs/fig5.png)
+
