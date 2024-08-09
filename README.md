@@ -24,5 +24,5 @@ In this project, we designed and modeled a database for Little Lemon Restaurant.
 
 After we defined and examined the relationships, the database model was implemented in MySQL Workbench.
 
-![Database Model](C:\Users\LEAN\Desktop\db_capstone\LittleLemonDbModel\db_model.png)
+![Database Model](LittleLemonDbModel\db_model.png)
 
