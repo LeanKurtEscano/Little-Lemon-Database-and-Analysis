@@ -36,7 +36,7 @@ Line chart showing the sales trend from 2019 to 2022.
 ![LineChart](Tableau%20Graphs/fig2.jpg)
 
 ### Fig 3.
-Bubble chart of sales for all customers.
+Bubble chart of sales for the top 31 Customer Sales.
 
 ![BubbleChart](Tableau%20Graphs/fig3.jpg)
 
